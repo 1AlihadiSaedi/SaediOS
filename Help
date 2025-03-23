@@ -1,0 +1,45 @@
+make ckernel
+کامپایل کرنل و ایجاد آبجکت فایل
+
+make linker
+لینک کردن کرنل و ایجاد کرنل دات بین
+
+make makeing-iso
+ایجاد فایل iso
+
+make qemu
+اجرای شبیه ساز
+
+make rm-all
+پاک کردن فایلهای اضافی و نگهداری فایل iso
+
+make rm-all-iso
+پاک کردن همه و نگه داشتن iso
+
+make export-all
+استخراج همه
+
+make export-all-rm
+استخراج همه و حذف فایل های اضافی و نگهداری فایل iso
+
+make export-all-qemu
+استخراج همه و اجرای شبیه ساز
+
+make export-all-qemu-rm
+استخراج همه و اجرای شبیه ساز و پاک کردن فایلهای اضافی و نگهداری فایل iso
+
+make install-apt
+نصب پیش‌نیاز های سیستم  های با بسته apt
+
+make install-pacman
+نصب پیش‌نیاز های سیستم  های با بسته pacman
+
+دقت کنید
+
+
+***************************************************************************************
+قدم به قدم پیش برید اگه از دستور make export-all استفاده نمی‌کنید
+
+make ckernel
+make linker
+make makeing-iso
