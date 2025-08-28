@@ -1,3 +1,16 @@
-SaediOS
+# SaediOS
 
-<img width="558" height="525" alt="ICON" src="https://github.com/user-attachments/assets/eadd6cc8-058c-4887-b36c-cca2566b8fda" />
+
+
+## 🚀 بزودی با **SaCode** بازنویسی می‌شود!![SaediOS](https://github.com/user-attachments/assets/3613b7df-d2c5-4108-b4f8-2ede0d684a2b)
+
+
+**خبر هیجان‌انگیز:** SaediOS خیلی زود با **SaCode** دوباره متولد می‌شود!  
+منتظر یک تجربه کاملاً جدید و قدرتمند باشید…
+
+---
+
+## 🌐 سایت رسمی
+[https://saedi.zya.me](https://saedi.zya.me)
+
+---
