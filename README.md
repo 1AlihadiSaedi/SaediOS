@@ -1,6 +1,5 @@
-<img width="558" height="525" alt="SaediOS" src="https://github.com/user-attachments/assets/a79f8cb5-879c-47fa-94d1-fabd9b97b8c9" />
-
 # SaediOS
+<img width="558" height="525" alt="SaediOS" src="https://github.com/user-attachments/assets/a79f8cb5-879c-47fa-94d1-fabd9b97b8c9" />
 
 [🇮🇷 فارسی](#فارسی) | [🇬🇧 English](#english)
 
